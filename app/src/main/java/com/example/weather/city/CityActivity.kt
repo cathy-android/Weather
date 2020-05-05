@@ -1,8 +1,8 @@
-package com.example.weather
+package com.example.weather.city
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.TextView
+import com.example.weather.R
 
 class CityActivity : AppCompatActivity() {
 
